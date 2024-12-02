@@ -1,4 +1,7 @@
 # Death The Kid Frosted Theme 
-This theme uses a base with edits done to it made by zitic with much love 
 ![Death The Kid Theme](https://github.com/user-attachments/assets/ead27915-4ed5-49af-881a-b2ce18a4f1ae)
+
+# Astolfo Clear Vision Discord Theme 
+![Alstolfo](https://github.com/user-attachments/assets/c42ced3d-8ecc-4716-970f-759be732f8df)
+
 
